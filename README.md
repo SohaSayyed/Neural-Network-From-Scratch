@@ -1,4 +1,4 @@
-# Feedforward Neural Network from Scratch 
+#  Neural Network from Scratch 
 
 This project implements a simple feedforward neural network from scratch using Python and NumPy.
 No in-built deep learning libraries such as TensorFlow, Keras, PyTorch, or Scikit-learn are used.
