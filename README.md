@@ -38,7 +38,7 @@ The error is propagated backward through the network to compute gradients using 
 ### 5. Gradient Descent
 Weights and biases are updated using gradient descent to minimize the loss.
 
-## 🗂 Files in Repository
+## Files in Repository
 - `neural_network_from_scratch.ipynb`  
   → Google Colab / Jupyter Notebook containing the full implementation of the neural network. 
 
